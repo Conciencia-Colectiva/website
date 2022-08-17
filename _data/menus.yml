@@ -1,0 +1,35 @@
+# Top Menu
+topmenu:
+
+- title: Inicio
+  url: ""
+
+- title: Nosotros
+  url: "about/"
+
+- title: Objetivos
+  url: "objetivos/"
+
+- title: Contacto
+  url: "contact/"
+
+- title: Novedades!
+  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true
+
+# Footer Menu
+footermenu:
+
+- title: Inicio
+  url: ""
+
+- title: "Política de privacidad"
+  url: "privacy-policy/"
+
+- title: Contacto
+  url: "contact/"
+
+- title: Estatuto
+  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+  external: true
